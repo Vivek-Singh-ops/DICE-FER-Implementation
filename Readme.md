@@ -34,7 +34,7 @@ Top Row (Expression Retrieval): The model successfully retrieves different peopl
 
 Bottom Row (Identity Retrieval): The model successfully retrieves the exact same person exhibiting completely different emotions.
 
-(Upload your generated plot image to the repository and replace disentanglement_proof.png below with your filename)
+https://github.com/Vivek-Singh-ops/DICE-FER-Implementation/blob/main/result.png
 
 
  Limitations & Deviations from Original Paper
